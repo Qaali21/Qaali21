@@ -1,16 +1,120 @@
-## Hi there 👋
+<a href="https://github.com/Qaali21">
+  <img src="https://img.shields.io/github/followers/Qaali21?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/Qaali21?tab=repositories">
+  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Qaali21-blueviolet" alt="Star My Repos" />
+</a>
+<a href="https://github.com/Qaali21">
+  <img src="https://komarev.com/ghpvc/?username=Qaali21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/Qaali21">
+  <img src="https://img.shields.io/github/last-commit/Qaali21/Qaali21?color=green" alt="Last Commit" />
+</a>
+<a href="https://github.com/Qaali21">
+  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+</a>
 
-<!--
-**Qaali21/Qaali21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MASTER-HEAD](./assets/api_animated_gif.gif)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Negash%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div align="center">
+    <h3>Profile Info</h3>
+    <kbd>
+      <div align="center">
+        <p style="width:50px; height: 100px;">
+          <strong>📍 Location</strong><br><br>
+          Ethiopia
+        </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+        <p><br><strong>Contact me</strong><br><br>
+          <a href="mailto:youremail@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail" />
+          </a>
+          <a href="https://github.com/Qaali21">
+            <img src="https://skillicons.dev/icons?i=github" />
+          </a>
+          <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+          </a>
+        </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+        <p><br><strong>Followers Count</strong><br><br><br>
+          <img src="https://img.shields.io/github/followers/Qaali21?label=Followers&style=social" width="150px"> 
+        </p>
+      </div>
+    </kbd>
+  </div>
+</div>
+
+<br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<img src="./assets/border_separator.gif">
+
+<!-- Github Stats -->
+<div align="center">
+  <h3>Github Stats</h3>
+  
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaali21&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://streak-stats.demolab.com?user=Qaali21&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaali21&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qaali21&theme=tokyonight" width="340px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qaali21&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qaali21&theme=tokyonight&utcOffset=+3.0" width="340px" />
+  </div>
+</div>
+
+## 🛠️ Tech Stack
+
+| **Languages** | **Frontend** | **Backend** |
+|:-------------:|:------------:|:-----------:|
+| [![Skills](https://skillicons.dev/icons?i=js,java,cpp,php,python)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=nodejs,express,firebase)](https://skillicons.dev) |
+
+| **Database** | **Dev Tools** | **Others** |
+|:------------:|:-------------:|:----------:|
+| [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,vercel,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=npm,jquery)](https://skillicons.dev) |
+
+<img src="./assets/border_separator.gif">
+
+## 🌟 Enjoying My Projects?
+
+If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
+
+👉 [View All My Repositories](https://github.com/Qaali21?tab=repositories)  
+👉 [Follow Me on GitHub](https://github.com/Qaali21)
+
+Thanks for your support! 💖  
+![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qaali21)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Qaali21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
